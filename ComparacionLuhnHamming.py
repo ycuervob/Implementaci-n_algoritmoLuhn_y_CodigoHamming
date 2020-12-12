@@ -1,7 +1,6 @@
 from CodigosBase.codigohamming import *
 from CodigosBase.codigoverificacion import *
 
-
 """
 Codigo que hace una comparación entre los métodos con el mismo, codigo y probando a transponer digitos
 """
