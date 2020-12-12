@@ -28,7 +28,7 @@ Contiene 2 modulos de python en donde se hacen algunas pruebas:
 
 ## 📑 Documento en google colab
 
-Un documento con la información mas detallada se puede entontrar en el siguiente link de colaboratory de google colab, que es un link que permite abrir el archivo _Tercera Entrega del proyecto.ipynb _ en google colab, donde se encuentran los códigos anteriores con una explicación mas detallada.
+Un documento con la información mas detallada se puede entontrar en el siguiente link de colaboratory de google colab, que es un link que permite abrir el archivo _Tercera Entrega del proyecto.ipynb_ en google colab, donde se encuentran los códigos anteriores con una explicación mas detallada.
 
 + [![Link de cuaderno de notebook en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ycuervob/Implementaci-n_algoritmoLuhn_y_CodigoHamming/blob/main/Tercera%20Entrega%20del%20proyecto.ipynb)
 
