@@ -30,5 +30,5 @@ Contiene 2 modulos de python en donde se hacen algunas pruebas:
 
 Un documento con la información mas detallada se puede entontrar en el siguiente link de colaboratory de google colab, un cuaderno de python, donde se encuentran los códigos anteriores con una explicación mas detallada.
 
-+ [![Link de cuaderno de notebook en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5oWEBxpD90aoT4fA5ET8MupgAaz97QR?usp=sharing)
++ [![Link de cuaderno de notebook en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ycuervob/Implementaci-n_algoritmoLuhn_y_CodigoHamming/blob/main/Tercera%20Entrega%20del%20proyecto.ipynb)
 
