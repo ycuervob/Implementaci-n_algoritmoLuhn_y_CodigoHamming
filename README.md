@@ -24,6 +24,7 @@ Contiene 2 modulos de python en donde se hacen algunas pruebas:
 + ComparacionLuhnHamming.py
 
 **CasoFalloAlgotimodeLuhn.py** Muestra varios casos donde falla el algoritmo de luhn para el vector de comprobacion [1,3,1,3,..,3,1]
+
 **ComparacionLuhnHamming.py** Compara los casos donde falla el algorimo de luhn y donde el algoritmo de hammign no falla, se hace una comparación usando un codigo con números enteros, sin embargo para usar el codigo de hamming se recomienda usar directamente un codigo con números binarios, pues el codigo hamming permite en caso de un error en un digito saber cual digito es el errado.
 
 ## 📑 Documento en google colab
