@@ -30,6 +30,6 @@ Contiene 2 modulos de python en donde se hacen algunas pruebas:
 
 Un documento con la información mas detallada se puede entontrar en el siguiente link de colaboratory de [google colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true), un cuaderno de python, donde se encuentran los códigos anteriores con una explicación mas detallada.
 
-+ [Link a cuaderno de python en google colab]
++ [![Link de cuaderno de notebook en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5oWEBxpD90aoT4fA5ET8MupgAaz97QR?usp=sharing)
 
 _Hecho por: yeison cuervo basurto_
