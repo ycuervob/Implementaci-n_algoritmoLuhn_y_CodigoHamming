@@ -1,5 +1,5 @@
 from CodigosBase.codigoverificacion import codigoVer
-
+ 
 """
 Ejemplo: Se calcula el codigo de verificación del caso mostrado
 """
