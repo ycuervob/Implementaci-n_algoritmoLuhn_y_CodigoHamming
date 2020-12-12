@@ -32,5 +32,3 @@ Un documento con la información mas detallada se puede entontrar en el siguient
 
 + [![Link de cuaderno de notebook en colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5oWEBxpD90aoT4fA5ET8MupgAaz97QR?usp=sharing)
 
-
-_Hecho por: yeison cuervo basurto_
